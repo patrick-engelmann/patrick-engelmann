@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Patrick Engelmann 👋 
-- 🔭 Estou cursando Tecnologo em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando tenologias web
+- 🔭 Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando tecnologias web
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-engelmann&show_icons=true&theme=dark)
 
@@ -16,7 +16,7 @@
 </div>
 
 <!-- Contato e redes sociais -->
-## Contato e Rees sociais
+## Contato e Redes sociais
 <div style="display:inline">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
