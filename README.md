@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://64.media.tumblr.com/09bebd7ed89f6be8b5857d2790ec6c7d/tumblr_o7vrxl8Uk11runoqyo6_540.gifv"  />
 </div>
 
 ###
@@ -34,6 +34,18 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=patrick-engelmann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick-engelmann&locale=pt-br&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=patrick-engelmann&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=patrick-engelmann&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patrick-engelmann&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
