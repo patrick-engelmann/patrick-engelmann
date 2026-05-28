@@ -8,7 +8,22 @@
 
 ###
 
-<p align="left">Ao longo da minha carreira, tive a oportunidade de trabalhar como bolsista da Huawei, como profissional assistente do curso de 5G, onde desenvolvi a habilidade de trabalhar em equipe e análise de dados. Sou conhecido por ter uma comunicação eficaz e sempre propor soluções que agreguem valor.<br><br>Atualmente, estou focado em Outsystems e sempre estou buscando novos desafios que me permitem crescer profissionalmente e contribuir para o sucesso da equipe e da empresa.</p>
+<p align="left">
+  Driven by curiosity about how I could help people with disabilities through technology, I found in
+                programming a way to transform ideas into real and accessible solutions, using hard code, low code, and
+                vibe code.
+
+                I see each challenge as an opportunity for growth. For me, a bug doesn't represent an obstacle, but part
+                of the learning and continuous improvement process. Currently, I focus my studies and projects on the
+                JavaScript ecosystem, especially with React, Node.js, and modern web development technologies, applying
+                best practices for clean code, accessibility, and scalable architecture.
+
+                I also have a strong interest in Artificial Intelligence, Machine Learning, and Natural Language
+                Processing, using Python as one of the main tools for developing intelligent and innovative solutions.
+
+                  My goal is to contribute to teams that value technology, accessibility, continuous learning, and
+                innovation, creating modern, efficient digital experiences with a real impact on people's lives.
+</p>
 
 ###
 
