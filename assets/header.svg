@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="800" height="60" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" class="s1" />
+      <stop offset="1" class="s2" />
+    </linearGradient>
+  </defs>
+  <style>
+    :root { --a: #4f46e5; --b: #0891b2; }
+    @media (prefers-color-scheme: dark) {
+      :root { --a: #818cf8; --b: #22d3ee; }
+    }
+    .s1 { stop-color: var(--a); }
+    .s2 { stop-color: var(--b); }
+    .line {
+      stroke: url(#g);
+      stroke-width: 3;
+      stroke-linecap: round;
+      fill: none;
+      stroke-dasharray: 700;
+      stroke-dashoffset: 0;
+      animation: draw 2.4s ease-out 1 both;
+    }
+    .dot {
+      fill: var(--b);
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: pop 0.6s ease-out 1 both;
+    }
+    .d1 { animation-delay: 1.8s; }
+    .d2 { animation-delay: 2.1s; }
+    .d3 { animation-delay: 2.4s; }
+    @keyframes draw {
+      from { stroke-dashoffset: 700; }
+      to   { stroke-dashoffset: 0; }
+    }
+    @keyframes pop {
+      from { opacity: 0; transform: scale(0.4); }
+      to   { opacity: 1; transform: scale(1); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .dot { animation: none; }
+    }
+  </style>
+  <path class="line" d="M 20 30 H 700" />
+  <circle class="dot d1" cx="730" cy="30" r="5" />
+  <circle class="dot d2" cx="754" cy="30" r="5" />
+  <circle class="dot d3" cx="778" cy="30" r="5" />
+</svg>    
